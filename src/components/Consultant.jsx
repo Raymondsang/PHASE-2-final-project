@@ -22,7 +22,7 @@ const Consultant = () => {
     setLoading(true);
     setMessage('');
 
-    fetch('http://localhost:3000/consultations', {
+    fetch('https://final-backend-lime.vercel.app/consultant', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

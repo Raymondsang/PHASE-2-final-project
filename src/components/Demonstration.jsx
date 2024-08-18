@@ -23,7 +23,7 @@ const Demonstration = () => {
     setLoading(true);
     setMessage('');
 
-    // Add form submission logic here, for example:
+    
     // fetch('http://localhost:3000/book-visit', {
     //   method: 'POST',
     //   headers: {

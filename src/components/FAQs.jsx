@@ -7,7 +7,7 @@ const FAQs = () => {
 
   useEffect(() => {
     // Fetch FAQs data from the server
-    fetch('http://localhost:3000/faqs')
+    fetch('https://final-backend-lime.vercel.app/faqs')
       .then(response => {
         if (!response.ok) {
           throw new Error('Network response was not ok');

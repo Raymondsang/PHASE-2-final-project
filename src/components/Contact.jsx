@@ -7,7 +7,7 @@ const Contact = () => {
 
   useEffect(() => {
     // Fetch contact data from the server
-    axios.get('http://localhost:3000/contact')
+    axios.get('https://final-backend-lime.vercel.app/contact')
       .then(response => {
         setContactInfo(response.data.contact); // Adjust based on actual response structure
       })

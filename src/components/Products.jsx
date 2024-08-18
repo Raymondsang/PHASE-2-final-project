@@ -8,7 +8,7 @@ const Products = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await fetch('http://localhost:3000/products');
+        const response = await fetch('https://final-backend-lime.vercel.app/products');
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
