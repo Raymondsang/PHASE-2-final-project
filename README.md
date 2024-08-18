@@ -17,7 +17,7 @@ It also online provides access to goods and services from certified manufacturer
 * Deployment: Vercel.
 
 **Installation**
-User can be able to acces the website using the provided website link. Here is a link to the website; https://phase-2-final-project-owcaq3mah-raymondsangs-projects.vercel.app/
+User can be able to acces the website using the provided website link. Here is a link to the website; https://phase-2-final-project-zaz2-r550wl0sg-raymondsangs-projects.vercel.app/
 
 **Usage**
 [Guide on how to use the web application]
