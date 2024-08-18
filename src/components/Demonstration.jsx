@@ -24,31 +24,31 @@ const Demonstration = () => {
     setMessage('');
 
     
-    // fetch('http://localhost:3000/book-visit', {
-    //   method: 'POST',
-    //   headers: {
-    //     'Content-Type': 'application/json'
-    //   },
-    //   body: JSON.stringify(formData)
-    // })
-    //   .then(response => response.json())
-    //   .then(data => {
-    //     setMessage('Visit booked successfully!');
-    //     setFormData({
-    //       fname: '',
-    //       lname: '',
-    //       email: '',
-    //       password: ''
-    //     });
-    //   })
-    //   .catch(error => {
-    //     setMessage('Error booking visit. Please try again.');
-    //   })
-    //   .finally(() => {
-    //     setLoading(false);
-    //   });
+    fetch('http://localhost:3000/book-visit', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(formData)
+    })
+      .then(response => response.json())
+      .then(data => {
+        setMessage('Visit booked successfully!');
+        setFormData({
+          fname: '',
+          lname: '',
+          email: '',
+          password: ''
+        });
+      })
+      .catch(error => {
+        setMessage('Error booking visit. Please try again.');
+      })
+      .finally(() => {
+        setLoading(false);
+      });
 
-    // Simulated form submission:
+    
     setTimeout(() => {
       setMessage('Visit booked successfully!');
       setFormData({
