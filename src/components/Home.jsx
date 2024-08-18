@@ -37,7 +37,7 @@ const Home = () => {
           <h2>OUR PRODUCTS</h2>
           <div className="samples">
             <div className="product-item">
-              <img src="PHASE-2-final-project/PHASE-2-PROJECT/public/images/pexels-tamara-elnova-218645958-12020221.jpg" alt="A blue watering can" className="product-image" />
+              <img src="/images/pexels-tima-miroshnichenko-6508404.jpg" alt="A watering can" className="product-image" />
               <p>Watering cans</p>
               <p>AVAILABLE FROM 5 LITRES- 15 LITRES</p>
               <button><a href="/images/pexels-tamara-elnova-218645958-12020221.jpg">LEARN MORE</a></button>
