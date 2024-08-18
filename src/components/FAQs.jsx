@@ -6,7 +6,7 @@ const FAQs = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    // Fetch FAQs data from the server
+    
     fetch('https://final-backend-lime.vercel.app/faqs')
       .then(response => {
         if (!response.ok) {

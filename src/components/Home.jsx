@@ -37,19 +37,19 @@ const Home = () => {
           <h2>OUR PRODUCTS</h2>
           <div className="samples">
             <div className="product-item">
-              <img src="public/images/pexels-tamara-elnova-218645958-12020221.jpg" alt="A blue watering can" className="product-image" />
+              <img src="PHASE-2-final-project/PHASE-2-PROJECT/public/images/pexels-tamara-elnova-218645958-12020221.jpg" alt="A blue watering can" className="product-image" />
               <p>Watering cans</p>
               <p>AVAILABLE FROM 5 LITRES- 15 LITRES</p>
               <button><a href="https://www.thrive.org.uk/get-gardening/watering-plants-outdoors">LEARN MORE</a></button>
             </div>
             <div className="product-item">
-              <img src="public/images/pexels-greta-hoffman-7728012.jpg" alt="Seedling trays" className="product-image" />
+              <img src="PHASE-2-final-project/PHASE-2-PROJECT/public/images/pexels-greta-hoffman-7728012.jpg" alt="Seedling trays" className="product-image" />
               <p>GET PVC SEEDLING TRAYS AT DISCOUNTED PRICES</p>
               <p>SIZES FROM 150-850 SEEDLING CAPACITY TRAYS</p>
               <button><a href="https://grekkon-eldoret.co.ke/product/seedling-trays">LEARN MORE</a></button>
             </div>
             <div className="product-item">
-              <img src="public/images/pexels-shvetsa-5231223.jpg" alt="Plants in a greenhouse" className="product-image" />
+              <img src="PHASE-2-final-project/PHASE-2-PROJECT/public/images/pexels-shvetsa-5231223.jpg" alt="Plants in a greenhouse" className="product-image" />
               <p>GET ACCESS TO HIGH YIELD SEEDLING VARIETIES OF VARIOUS PLANTS</p>
               <p>SEEDLINGS AVAILABLE 45 DAYS AFTER ORDER DATE</p>
               <button><a href="https://grekkon-eldoret.co.ke/product/affordable-greenhouses">LEARN MORE</a></button>

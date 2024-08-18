@@ -6,10 +6,10 @@ const Contact = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    // Fetch contact data from the server
+    // fetching from server
     axios.get('https://final-backend-lime.vercel.app/contact')
       .then(response => {
-        setContactInfo(response.data.contact); // Adjust based on actual response structure
+        setContactInfo(response.data.contact); 
       })
       .catch(error => {
         console.error('Error fetching contact data:', error);

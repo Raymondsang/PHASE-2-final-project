@@ -25,7 +25,7 @@ const Products = () => {
   }, []);
 
   if (loading) {
-    return <div className="loading-spinner">Loading products...</div>; // Add a spinner or loading animation
+    return <div className="loading-spinner">Loading products...</div>; 
   }
 
   if (error) {

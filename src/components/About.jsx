@@ -22,7 +22,7 @@ const About = () => {
         </NavLink>
       </nav>
       <main>
-        {/* Additional content for the About page can go here */}
+      
       </main>
     </div>
   );
