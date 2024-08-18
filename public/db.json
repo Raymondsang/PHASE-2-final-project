@@ -1,19 +1,21 @@
 {
   "products": [
     {
-      "name": "Product 1",
-      "description": "Description of product 1",
+      "name": "Greenhouse PVC Sheets",
+      "description": "50 by 100 Greenhouse PVC Sheets heavy duty.",
       "price": 10.99
     },
     {
-      "name": "Product 2",
-      "description": "Description of product 2",
-      "price": 19.99
+      "name": "Rounded Poles and Metal frames",
+      "description": "Rounded Poles and Metal frames for the greenhouse support structures",
+      "price": 535.99
     },
     {
-      "name": "Product 3",
-      "description": "Description of product 3",
-      "price": 29.99}],
+      "name": "NPK fertilisers",
+      "description": "90kg bags of Russian NPK fertilisers",
+      "price": 100.99}
+    
+    ],
 
 
 
@@ -58,7 +60,7 @@
       "type": "email",
       "label": "Email",
       "value": "raymondsang98@gmail.com",
-      "href": "raymondsang98:example@example.com"
+      "href": "raysang98@gmail.com"
     },
     {
       "type": "mobile",
@@ -68,7 +70,7 @@
     {
       "type": "email-action",
       "label": "Send us an email",
-      "href": "mailto:example@example.com"
+      "href": "raysang98@gmail.com"
     }
   ]
 }
