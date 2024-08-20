@@ -24,6 +24,7 @@ User can be able to acces the website using the provided website link. Here is a
 
 **Contributing**
     Data in the website can be easily accessed and the network administrator frequently updates the information available. Our contributors are the manufacturers and major distributor of farm inputs in Kenya.
+    Here is a link to my blog; https://raymondsang.hashnode.dev/the-importance-of-e-commerce-in-modern-agricultural-practice
 
 **License**
 MIT License
